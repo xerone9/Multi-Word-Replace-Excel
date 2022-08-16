@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=AzhZdptpao4
 
 How it Works:
 
-The code is written in python. With the help of py2pdf library it’ll start a loop that reads the value from the initial file and read it on the second file once the value is found it will copy the value present at the very next cell of the 2nd sheet and add it to the initial sheet’s very next column
+The code is written in python. With the help of py2excel library it’ll start a loop that reads the value from the initial file and read it on the second file once the value is found it will copy the value present at the very next cell of the 2nd sheet and add it to the initial sheet’s very next column
 
 Compatibility:
 
